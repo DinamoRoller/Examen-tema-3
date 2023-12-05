@@ -1,5 +1,18 @@
 https://github.com/DinamoRoller/Examen-tema-3.git
 # Examen-tema-3
+
+# Ejercicios tipo test
+
+1.B
+
+2.A
+
+3.B
+
+4.C
+
+# Codigo
+
 El codigo cumple en un principio todos los requisitos pedidos en el enunciado del ejercicio.
 
 --La estructura basica se realiza en la clase Environment, incluyendo el std::map
@@ -25,4 +38,5 @@ Expansion de funcionalidades:
 Manejo de tipos dinamicos:
 
 Seguridad:
+
 
