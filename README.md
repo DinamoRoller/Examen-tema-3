@@ -15,13 +15,13 @@ https://github.com/DinamoRoller/Examen-tema-3.git
 
 El codigo cumple en un principio todos los requisitos pedidos en el enunciado del ejercicio.
 
---La estructura basica se realiza en la clase Environment, incluyendo el std::map
+--La estructura basica se realiza en la clase Environment, incluyendo el std::map.
 
---Se insertan simbolos en el archivo main.cpp que muestran la vida del jugador y su posicion 
+--Se insertan simbolos en el archivo main.cpp que muestran la vida del jugador y su posicion .
 
---La busqueda de simbolos se incluye en el main.cpp
+--La busqueda de simbolos se incluye en el main.cpp.
 
---La gestion de errores se ha implementado con los ejemplos anteriores
+--La gestion de errores se ha implementado con los ejemplos anteriores.
 
 --La clase Variant trabaja en conjunto con la clase Environment para proporcionar un entorno de ejecucion de scripts. Se usa para almacenar y manipular datos de diferentes tipos de entornos de scripting. Esto facilita la personalizacion y modificacion dinamica del comportamiento del juego mediante scripts.
 
@@ -37,6 +37,6 @@ Expansion de funcionalidades: Agregar capacidades avanzadas de scripting, como f
 
 Manejo de tipos dinamicos: Se podria permitir que los scripts trabajen on tipos dinamicos sin necesidad de una clase "Variant"
 
-Seguridad: Se podria implementra algun que otro mecanismo de seguridad para evitar la ejecucion de scripts maliciosos
+Seguridad: Se podria implementar algun que otro mecanismo de seguridad para evitar la ejecucion de scripts maliciosos
 
 
