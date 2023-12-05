@@ -33,10 +33,10 @@ El codigo cumple en un principio todos los requisitos pedidos en el enunciado de
 
 Optimizacion de busqueda: si la tabla de simbolos se vuelve muy grande, se podrian considerar estructuras de datos mas eficientes, como por ejemplo "unordered_map".
 
-Expansion de funcionalidades: 
+Expansion de funcionalidades: Agregar capacidades avanzadas de scripting, como funciones definidas por el usuario, manejo de eventos, etc.
 
-Manejo de tipos dinamicos:
+Manejo de tipos dinamicos: Se podria permitir que los scripts trabajen on tipos dinamicos sin necesidad de una clase "Variant"
 
-Seguridad:
+Seguridad: Se podria implementra algun que otro mecanismo de seguridad para evitar la ejecucion de scripts maliciosos
 
 
