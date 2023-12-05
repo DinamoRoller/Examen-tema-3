@@ -11,6 +11,8 @@ https://github.com/DinamoRoller/Examen-tema-3.git
 
 4.C
 
+=======
+
 # Codigo
 
 El codigo cumple en un principio todos los requisitos pedidos en el enunciado del ejercicio.
