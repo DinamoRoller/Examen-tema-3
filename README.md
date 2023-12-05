@@ -17,7 +17,12 @@ El codigo cumple en un principio todos los requisitos pedidos en el enunciado de
 --Casos de uso: incluido en el main.cpp y se muestra su funcionalidad al compilar el programa.
 
 --En cuanto a la reflexion y las mejoras, se podrian mejorar o incluir las siguientes:
+
 Optimizacion de busqueda: si la tabla de simbolos se vuelve muy grande, se podrian considerar estructuras de datos mas eficientes, como por ejemplo "unordered_map".
+
 Expansion de funcionalidades: 
-Manejo de tipos dinamicos
-Seguridad
+
+Manejo de tipos dinamicos:
+
+Seguridad:
+
